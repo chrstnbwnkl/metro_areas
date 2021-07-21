@@ -1,0 +1,14 @@
+name: metro-areas
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - beautifulsoup4
+  - osmnx
+  - shapely
+  - contextily
+  - python
+  - jupyter
+  - pyproj
+  - descartes
